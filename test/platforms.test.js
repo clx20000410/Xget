@@ -382,6 +382,7 @@ describe('Platform Configuration', () => {
         'ip-fireworks',
         'ip-nebius',
         'ip-jina',
+        'ip-anyrouter',
         'ip-voyageai',
         'ip-falai',
         'ip-novita',
